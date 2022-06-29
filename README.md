@@ -103,19 +103,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p>
-  <img height="180em" align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=gopik820&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-      alt="gopik820" 
-      bg_color=#808080/>
-</p>
-<p>
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=gopik820&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="gopik820" />
-</p>
-<br><br><br><br><br><br><br><br><br>
-<p>
-<img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopik820&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="gopik820" />
+<p align="center">
+    <a href="https://github.com/gopik820">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gopik820&show_icons=true&include_all_commits=true&count_private=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" />
+    <img height="180em" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=gopik820&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+        alt="gopik820" 
+        bg_color=#808080/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gopik820&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="gopik820" />
+    </a>
 </p>
 
 <div align="center">
