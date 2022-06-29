@@ -5,8 +5,8 @@
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to learn more about new technologies and develop software solutions for realworld problems.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineerting at the Amrita Vishwa Vidyapeetham.\
+💡 &nbsp;I like to learn more about new technologies and develop software solutions for real-world problems.\
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at Amrita Vishwa Vidyapeetham,Amritapuri.\
 🌱 &nbsp;I’m currently learning Web Development and other programming languages.\
 💬 &nbsp;Feel free to reach out to me at **gopileo2002@gmail.com**! I'll try to respond as soon as I can.
 
